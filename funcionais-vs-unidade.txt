@@ -1,0 +1,2 @@
+* Testes de unidade são testes do código da aplicação, enquanto testes funcionais são testes da perspectiva do usuário
+* Testes de unidade verificam o funcionamento individual de componentes da aplicação, enquanto testes funcionais testam todo o processo de utilização da aplicação
