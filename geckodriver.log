@@ -2127,3 +2127,1278 @@ console.error: "Could not load engine bing@search.mozilla.org: TypeError: AddonM
 console.error: "Could not load engine wikipedia@search.mozilla.org: TypeError: AddonManagerInternal._getProviderByName(...) is undefined"
 console.warn: SearchService: "_init: abandoning init due to shutting down"
 JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+1600025936989	geckodriver	INFO	Listening on 127.0.0.1:51224
+1600025937000	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyA6ZlP"
+*** You are running in headless mode.
+Exiting due to channel error.
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x21006F,name=PBrowser::Msg_UpdateDimensions) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390037,name=PContent::Msg_UpdateSharedData) Channel error: cannot send/recv
+
+[Parent 4633, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-KNJqXb/firefox-80.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 19
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39005D,name=PContent::Msg_GMPsChanged) Channel error: cannot send/recv
+
+Exiting due to channel error.
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39005D,name=PContent::Msg_GMPsChanged) Channel error: cannot send/recv
+
+Exiting due to channel error.
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390037,name=PContent::Msg_UpdateSharedData) Channel error: cannot send/recv
+
+[Parent 4633, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-KNJqXb/firefox-80.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 19
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390037,name=PContent::Msg_UpdateSharedData) Channel error: cannot send/recv
+
+[Parent 4633, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-KNJqXb/firefox-80.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 19
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390037,name=PContent::Msg_UpdateSharedData) Channel error: cannot send/recv
+
+[Parent 4633, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-KNJqXb/firefox-80.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 19
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390037,name=PContent::Msg_UpdateSharedData) Channel error: cannot send/recv
+
+[Parent 4633, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-KNJqXb/firefox-80.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 19
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390037,name=PContent::Msg_UpdateSharedData) Channel error: cannot send/recv
+
+[Parent 4633, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-KNJqXb/firefox-80.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 19
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390037,name=PContent::Msg_UpdateSharedData) Channel error: cannot send/recv
+
+[Parent 4633, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-KNJqXb/firefox-80.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 19
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390037,name=PContent::Msg_UpdateSharedData) Channel error: cannot send/recv
+
+[Parent 4633, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-KNJqXb/firefox-80.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 19
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390037,name=PContent::Msg_UpdateSharedData) Channel error: cannot send/recv
+
+[Parent 4633, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-KNJqXb/firefox-80.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 19
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x210054,name=PBrowser::Msg_UpdateEffects) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x21004D,name=PBrowser::Msg_FlushTabState) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x210001,name=PBrowser::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39013A,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39013A,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39013A,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39013A,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39013A,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39001D,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39013A,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39013A,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39013A,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39013A,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39013A,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+[Parent 4633, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-KNJqXb/firefox-80.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 19
+[Parent 4633, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-KNJqXb/firefox-80.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 19
+[Parent 4633, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-KNJqXb/firefox-80.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 19
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+Exiting due to channel error.
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+console.error: "Could not load engine google@search.mozilla.org: TypeError: AddonManagerInternal._getProviderByName(...) is undefined"
+console.error: "Could not load engine amazondotcom@search.mozilla.org: TypeError: AddonManagerInternal._getProviderByName(...) is undefined"
+console.error: "Could not load engine wikipedia@search.mozilla.org: TypeError: AddonManagerInternal._getProviderByName(...) is undefined"
+console.error: "Could not load engine bing@search.mozilla.org: TypeError: AddonManagerInternal._getProviderByName(...) is undefined"
+console.error: "Could not load engine ddg@search.mozilla.org: TypeError: AddonManagerInternal._getProviderByName(...) is undefined"
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+1600025938241	geckodriver	INFO	Listening on 127.0.0.1:51245
+1600025938249	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOZEUaC"
+*** You are running in headless mode.
+Exiting due to channel error.
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x21006F,name=PBrowser::Msg_UpdateDimensions) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390037,name=PContent::Msg_UpdateSharedData) Channel error: cannot send/recv
+
+[Parent 4814, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-KNJqXb/firefox-80.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 19
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39005D,name=PContent::Msg_GMPsChanged) Channel error: cannot send/recv
+
+Exiting due to channel error.
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39005D,name=PContent::Msg_GMPsChanged) Channel error: cannot send/recv
+
+Exiting due to channel error.
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390037,name=PContent::Msg_UpdateSharedData) Channel error: cannot send/recv
+
+[Parent 4814, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-KNJqXb/firefox-80.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 19
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390037,name=PContent::Msg_UpdateSharedData) Channel error: cannot send/recv
+
+[Parent 4814, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-KNJqXb/firefox-80.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 19
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390037,name=PContent::Msg_UpdateSharedData) Channel error: cannot send/recv
+
+[Parent 4814, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-KNJqXb/firefox-80.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 19
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390037,name=PContent::Msg_UpdateSharedData) Channel error: cannot send/recv
+
+[Parent 4814, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-KNJqXb/firefox-80.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 19
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390037,name=PContent::Msg_UpdateSharedData) Channel error: cannot send/recv
+
+[Parent 4814, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-KNJqXb/firefox-80.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 19
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390037,name=PContent::Msg_UpdateSharedData) Channel error: cannot send/recv
+
+[Parent 4814, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-KNJqXb/firefox-80.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 19
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390037,name=PContent::Msg_UpdateSharedData) Channel error: cannot send/recv
+
+[Parent 4814, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-KNJqXb/firefox-80.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 19
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390037,name=PContent::Msg_UpdateSharedData) Channel error: cannot send/recv
+
+[Parent 4814, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-KNJqXb/firefox-80.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 19
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x210054,name=PBrowser::Msg_UpdateEffects) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x21004D,name=PBrowser::Msg_FlushTabState) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x210001,name=PBrowser::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39013A,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39013A,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39013A,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39013A,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39013A,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39013A,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39013A,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39013A,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39013A,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39001D,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39013A,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+[Parent 4814, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-KNJqXb/firefox-80.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 19
+[Parent 4814, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-KNJqXb/firefox-80.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 19
+[Parent 4814, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-KNJqXb/firefox-80.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 19
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+Exiting due to channel error.
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", "resource://gre/modules/Region.jsm", 672))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+console.error: "Could not load engine google@search.mozilla.org: TypeError: AddonManagerInternal._getProviderByName(...) is undefined"
+console.error: "Could not load engine amazondotcom@search.mozilla.org: TypeError: AddonManagerInternal._getProviderByName(...) is undefined"
+console.error: "Could not load engine ddg@search.mozilla.org: TypeError: AddonManagerInternal._getProviderByName(...) is undefined"
+console.error: "Could not load engine bing@search.mozilla.org: TypeError: AddonManagerInternal._getProviderByName(...) is undefined"
+console.error: "Could not load engine wikipedia@search.mozilla.org: TypeError: AddonManagerInternal._getProviderByName(...) is undefined"
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+1600026028818	geckodriver	INFO	Listening on 127.0.0.1:51316
+1600026028828	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekCPOSx"
+*** You are running in headless mode.
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x21006F,name=PBrowser::Msg_UpdateDimensions) Channel error: cannot send/recv
+
+Exiting due to channel error.
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390037,name=PContent::Msg_UpdateSharedData) Channel error: cannot send/recv
+
+[Parent 5005, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-KNJqXb/firefox-80.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 19
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39005D,name=PContent::Msg_GMPsChanged) Channel error: cannot send/recv
+
+Exiting due to channel error.
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39005D,name=PContent::Msg_GMPsChanged) Channel error: cannot send/recv
+
+Exiting due to channel error.
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390037,name=PContent::Msg_UpdateSharedData) Channel error: cannot send/recv
+
+[Parent 5005, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-KNJqXb/firefox-80.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 19
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390037,name=PContent::Msg_UpdateSharedData) Channel error: cannot send/recv
+
+[Parent 5005, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-KNJqXb/firefox-80.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 19
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390037,name=PContent::Msg_UpdateSharedData) Channel error: cannot send/recv
+
+[Parent 5005, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-KNJqXb/firefox-80.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 19
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390037,name=PContent::Msg_UpdateSharedData) Channel error: cannot send/recv
+
+[Parent 5005, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-KNJqXb/firefox-80.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 19
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390037,name=PContent::Msg_UpdateSharedData) Channel error: cannot send/recv
+
+[Parent 5005, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-KNJqXb/firefox-80.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 19
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390037,name=PContent::Msg_UpdateSharedData) Channel error: cannot send/recv
+
+[Parent 5005, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-KNJqXb/firefox-80.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 19
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390037,name=PContent::Msg_UpdateSharedData) Channel error: cannot send/recv
+
+[Parent 5005, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-KNJqXb/firefox-80.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 19
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390037,name=PContent::Msg_UpdateSharedData) Channel error: cannot send/recv
+
+[Parent 5005, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-KNJqXb/firefox-80.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 19
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x210054,name=PBrowser::Msg_UpdateEffects) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x21004D,name=PBrowser::Msg_FlushTabState) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x210001,name=PBrowser::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39013A,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39013A,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39013A,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39013A,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39013A,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39001D,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39013A,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39013A,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39013A,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39013A,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39013A,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+[Parent 5005, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-KNJqXb/firefox-80.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 19
+[Parent 5005, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-KNJqXb/firefox-80.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 19
+[Parent 5005, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-KNJqXb/firefox-80.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 19
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+Exiting due to channel error.
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.error: "Could not load engine google@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2529\"  data: no]"
+console.error: "Could not load engine amazondotcom@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2529\"  data: no]"
+console.error: "Could not load engine ddg@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2529\"  data: no]"
+console.error: "Could not load engine bing@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2529\"  data: no]"
+console.error: "Could not load engine wikipedia@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2529\"  data: no]"
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+1600026030171	geckodriver	INFO	Listening on 127.0.0.1:51339
+1600026030179	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFTKa3z"
+*** You are running in headless mode.
+Exiting due to channel error.
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x21006F,name=PBrowser::Msg_UpdateDimensions) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390037,name=PContent::Msg_UpdateSharedData) Channel error: cannot send/recv
+
+[Parent 5182, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-KNJqXb/firefox-80.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 19
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39005D,name=PContent::Msg_GMPsChanged) Channel error: cannot send/recv
+
+Exiting due to channel error.
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39005D,name=PContent::Msg_GMPsChanged) Channel error: cannot send/recv
+
+Exiting due to channel error.
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390037,name=PContent::Msg_UpdateSharedData) Channel error: cannot send/recv
+
+[Parent 5182, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-KNJqXb/firefox-80.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 19
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390037,name=PContent::Msg_UpdateSharedData) Channel error: cannot send/recv
+
+[Parent 5182, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-KNJqXb/firefox-80.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 19
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390037,name=PContent::Msg_UpdateSharedData) Channel error: cannot send/recv
+
+[Parent 5182, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-KNJqXb/firefox-80.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 19
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390037,name=PContent::Msg_UpdateSharedData) Channel error: cannot send/recv
+
+[Parent 5182, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-KNJqXb/firefox-80.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 19
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390037,name=PContent::Msg_UpdateSharedData) Channel error: cannot send/recv
+
+[Parent 5182, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-KNJqXb/firefox-80.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 19
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390037,name=PContent::Msg_UpdateSharedData) Channel error: cannot send/recv
+
+[Parent 5182, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-KNJqXb/firefox-80.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 19
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390037,name=PContent::Msg_UpdateSharedData) Channel error: cannot send/recv
+
+[Parent 5182, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-KNJqXb/firefox-80.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 19
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390037,name=PContent::Msg_UpdateSharedData) Channel error: cannot send/recv
+
+[Parent 5182, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-KNJqXb/firefox-80.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 19
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x210054,name=PBrowser::Msg_UpdateEffects) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x21004D,name=PBrowser::Msg_FlushTabState) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x210001,name=PBrowser::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39013A,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39013A,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39013A,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39013A,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39013A,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39013A,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39013A,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39013A,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39013A,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39001D,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39013A,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+[Parent 5182, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-KNJqXb/firefox-80.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 19
+[Parent 5182, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-KNJqXb/firefox-80.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 19
+[Parent 5182, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-KNJqXb/firefox-80.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 19
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+Exiting due to channel error.
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", "resource://gre/modules/Region.jsm", 672))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+console.log: "RemoteSettingsWorker error: AbortError: IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort."
+console.error: "Could not load engine google@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2529\"  data: no]"
+console.error: "Could not load engine amazondotcom@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2529\"  data: no]"
+console.error: "Could not load engine ddg@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2529\"  data: no]"
+console.error: "Could not load engine bing@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2529\"  data: no]"
+console.error: "Could not load engine wikipedia@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2529\"  data: no]"
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+1600026353994	geckodriver	INFO	Listening on 127.0.0.1:51641
+1600026354003	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileC1MiCw"
+*** You are running in headless mode.
+Exiting due to channel error.
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x21006F,name=PBrowser::Msg_UpdateDimensions) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390037,name=PContent::Msg_UpdateSharedData) Channel error: cannot send/recv
+
+[Parent 5388, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-KNJqXb/firefox-80.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 19
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39005D,name=PContent::Msg_GMPsChanged) Channel error: cannot send/recv
+
+Exiting due to channel error.
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39005D,name=PContent::Msg_GMPsChanged) Channel error: cannot send/recv
+
+Exiting due to channel error.
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390037,name=PContent::Msg_UpdateSharedData) Channel error: cannot send/recv
+
+[Parent 5388, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-KNJqXb/firefox-80.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 19
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390037,name=PContent::Msg_UpdateSharedData) Channel error: cannot send/recv
+
+[Parent 5388, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-KNJqXb/firefox-80.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 19
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390037,name=PContent::Msg_UpdateSharedData) Channel error: cannot send/recv
+
+[Parent 5388, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-KNJqXb/firefox-80.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 19
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390037,name=PContent::Msg_UpdateSharedData) Channel error: cannot send/recv
+
+[Parent 5388, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-KNJqXb/firefox-80.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 19
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390037,name=PContent::Msg_UpdateSharedData) Channel error: cannot send/recv
+
+[Parent 5388, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-KNJqXb/firefox-80.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 19
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390037,name=PContent::Msg_UpdateSharedData) Channel error: cannot send/recv
+
+[Parent 5388, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-KNJqXb/firefox-80.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 19
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390037,name=PContent::Msg_UpdateSharedData) Channel error: cannot send/recv
+
+[Parent 5388, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-KNJqXb/firefox-80.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 19
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390037,name=PContent::Msg_UpdateSharedData) Channel error: cannot send/recv
+
+[Parent 5388, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-KNJqXb/firefox-80.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 19
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x210054,name=PBrowser::Msg_UpdateEffects) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x21004D,name=PBrowser::Msg_FlushTabState) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x210001,name=PBrowser::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39013A,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39013A,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39013A,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39013A,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39013A,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39013A,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39013A,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39013A,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39013A,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39001D,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39013A,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+[Parent 5388, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-KNJqXb/firefox-80.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 19
+[Parent 5388, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-KNJqXb/firefox-80.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 19
+[Parent 5388, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-KNJqXb/firefox-80.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 19
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+Exiting due to channel error.
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+console.error: "Could not load engine google@search.mozilla.org: TypeError: AddonManagerInternal._getProviderByName(...) is undefined"
+console.error: "Could not load engine amazondotcom@search.mozilla.org: TypeError: AddonManagerInternal._getProviderByName(...) is undefined"
+console.error: "Could not load engine ddg@search.mozilla.org: TypeError: AddonManagerInternal._getProviderByName(...) is undefined"
+console.error: "Could not load engine bing@search.mozilla.org: TypeError: AddonManagerInternal._getProviderByName(...) is undefined"
+console.error: "Could not load engine wikipedia@search.mozilla.org: TypeError: AddonManagerInternal._getProviderByName(...) is undefined"
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", "resource://gre/modules/Region.jsm", 672))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+1600026503446	geckodriver	INFO	Listening on 127.0.0.1:51782
+1600026503456	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKf8vp9"
+*** You are running in headless mode.
+Exiting due to channel error.
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390037,name=PContent::Msg_UpdateSharedData) Channel error: cannot send/recv
+
+[Parent 5591, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-KNJqXb/firefox-80.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 19
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39005D,name=PContent::Msg_GMPsChanged) Channel error: cannot send/recv
+
+Exiting due to channel error.
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39005D,name=PContent::Msg_GMPsChanged) Channel error: cannot send/recv
+
+Exiting due to channel error.
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390037,name=PContent::Msg_UpdateSharedData) Channel error: cannot send/recv
+
+[Parent 5591, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-KNJqXb/firefox-80.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 19
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390037,name=PContent::Msg_UpdateSharedData) Channel error: cannot send/recv
+
+[Parent 5591, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-KNJqXb/firefox-80.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 19
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390037,name=PContent::Msg_UpdateSharedData) Channel error: cannot send/recv
+
+[Parent 5591, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-KNJqXb/firefox-80.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 19
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390037,name=PContent::Msg_UpdateSharedData) Channel error: cannot send/recv
+
+[Parent 5591, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-KNJqXb/firefox-80.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 19
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390037,name=PContent::Msg_UpdateSharedData) Channel error: cannot send/recv
+
+[Parent 5591, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-KNJqXb/firefox-80.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 19
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390037,name=PContent::Msg_UpdateSharedData) Channel error: cannot send/recv
+
+[Parent 5591, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-KNJqXb/firefox-80.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 19
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390037,name=PContent::Msg_UpdateSharedData) Channel error: cannot send/recv
+
+[Parent 5591, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-KNJqXb/firefox-80.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 19
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390037,name=PContent::Msg_UpdateSharedData) Channel error: cannot send/recv
+
+[Parent 5591, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-KNJqXb/firefox-80.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 19
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x210054,name=PBrowser::Msg_UpdateEffects) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x21004D,name=PBrowser::Msg_FlushTabState) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x210001,name=PBrowser::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39013A,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39013A,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39013A,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39013A,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39013A,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39013A,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39013A,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39013A,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39013A,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39001D,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39013A,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+[Parent 5591, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-KNJqXb/firefox-80.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 19
+[Parent 5591, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-KNJqXb/firefox-80.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 19
+[Parent 5591, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-KNJqXb/firefox-80.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 19
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+Exiting due to channel error.
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+console.error: "Could not load engine amazondotcom@search.mozilla.org: TypeError: AddonManagerInternal._getProviderByName(...) is undefined"
+console.error: "Could not load engine wikipedia@search.mozilla.org: TypeError: AddonManagerInternal._getProviderByName(...) is undefined"
+console.error: "Could not load engine bing@search.mozilla.org: TypeError: AddonManagerInternal._getProviderByName(...) is undefined"
+console.error: "Could not load engine ddg@search.mozilla.org: TypeError: AddonManagerInternal._getProviderByName(...) is undefined"
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+1600026504801	geckodriver	INFO	Listening on 127.0.0.1:51805
+1600026504809	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexdBaS8"
+*** You are running in headless mode.
+Exiting due to channel error.
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390037,name=PContent::Msg_UpdateSharedData) Channel error: cannot send/recv
+
+[Parent 5789, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-KNJqXb/firefox-80.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 19
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39005D,name=PContent::Msg_GMPsChanged) Channel error: cannot send/recv
+
+Exiting due to channel error.
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39005D,name=PContent::Msg_GMPsChanged) Channel error: cannot send/recv
+
+Exiting due to channel error.
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390037,name=PContent::Msg_UpdateSharedData) Channel error: cannot send/recv
+
+[Parent 5789, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-KNJqXb/firefox-80.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 19
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390037,name=PContent::Msg_UpdateSharedData) Channel error: cannot send/recv
+
+[Parent 5789, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-KNJqXb/firefox-80.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 19
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390037,name=PContent::Msg_UpdateSharedData) Channel error: cannot send/recv
+
+[Parent 5789, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-KNJqXb/firefox-80.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 19
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390037,name=PContent::Msg_UpdateSharedData) Channel error: cannot send/recv
+
+[Parent 5789, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-KNJqXb/firefox-80.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 19
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390037,name=PContent::Msg_UpdateSharedData) Channel error: cannot send/recv
+
+[Parent 5789, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-KNJqXb/firefox-80.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 19
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390037,name=PContent::Msg_UpdateSharedData) Channel error: cannot send/recv
+
+[Parent 5789, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-KNJqXb/firefox-80.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 19
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390037,name=PContent::Msg_UpdateSharedData) Channel error: cannot send/recv
+
+[Parent 5789, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-KNJqXb/firefox-80.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 19
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390037,name=PContent::Msg_UpdateSharedData) Channel error: cannot send/recv
+
+[Parent 5789, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-KNJqXb/firefox-80.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 19
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390025,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x210054,name=PBrowser::Msg_UpdateEffects) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x21004D,name=PBrowser::Msg_FlushTabState) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x210001,name=PBrowser::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39013A,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39013A,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39013A,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39013A,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39013A,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39013A,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39013A,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39001D,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39013A,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39013A,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39013A,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+[Parent 5789, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-KNJqXb/firefox-80.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 19
+[Parent 5789, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-KNJqXb/firefox-80.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 19
+[Parent 5789, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-KNJqXb/firefox-80.0.1+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 19
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+Exiting due to channel error.
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+console.error: "Could not load engine google@search.mozilla.org: TypeError: AddonManagerInternal._getProviderByName(...) is undefined"
+console.error: "Could not load engine amazondotcom@search.mozilla.org: TypeError: AddonManagerInternal._getProviderByName(...) is undefined"
+console.error: "Could not load engine wikipedia@search.mozilla.org: TypeError: AddonManagerInternal._getProviderByName(...) is undefined"
+console.error: "Could not load engine bing@search.mozilla.org: TypeError: AddonManagerInternal._getProviderByName(...) is undefined"
+console.error: "Could not load engine ddg@search.mozilla.org: TypeError: AddonManagerInternal._getProviderByName(...) is undefined"
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
