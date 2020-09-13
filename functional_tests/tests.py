@@ -1,18 +1,16 @@
 from selenium import webdriver
 from django.test import LiveServerTestCase
 from selenium.webdriver.common.keys import Keys
-from selenium.webdriver.firefox.options import Options
 import time
 import unittest
+from selenium.common.exceptions import WebDriverException
 
 MAX_WAIT = 5
 
 class NewVisitorTest(LiveServerTestCase):
 
     def setUp(self):  
-        options = Options()
-        options.headless = True
-        self.browser = webdriver.Firefox(executable_path = '/usr/local/bin/geckodriver', options=options)
+        self.browser = webdriver.Firefox()
 
     def tearDown(self):  
         self.browser.quit()
